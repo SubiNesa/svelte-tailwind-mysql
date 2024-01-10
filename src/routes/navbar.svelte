@@ -14,15 +14,8 @@
 	</div>
 
 	<div class="flex items-center ms-auto gap-2 p-1">
-		<a
-			class="github-button"
-			href="/links"
-			data-color-scheme="no-preference: dark; light: light; dark: light;"
-			data-icon="octicon-star"
-			data-size="large"
-			data-show-count="true"
-			aria-label="Links about this project">Links</a
-		>
+		<a href="/json">Json</a>
+		<a href="/links">Links</a>
 		<DarkMode />
 	</div>
 </Navbar>
