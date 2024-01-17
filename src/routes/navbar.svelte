@@ -14,6 +14,7 @@
 	</div>
 
 	<div class="flex items-center ms-auto gap-2 p-1">
+		<a href="/events">Events</a>
 		<a href="/json">Json</a>
 		<a href="/links">Links</a>
 		<DarkMode />
